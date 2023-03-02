@@ -44,10 +44,10 @@ Now, i leave up to you explore and read stuff.
 
 We will start with Ciphers. 
 
-Q1. Find out the 5 most common used Ciphers.
-Q2. What are monoalphabetic substitution Ciphers.
-Q3. Symmetric and Assymetric encryptions.
-Q4. RSA algorithm and Exclusive OR operation.
+Q1. Find out the 5 most common used Ciphers.  
+Q2. What are monoalphabetic substitution Ciphers.  
+Q3. Symmetric and Assymetric encryptions.  
+Q4. RSA algorithm and Exclusive OR operation.  
 
 ---
 
