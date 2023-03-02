@@ -46,5 +46,12 @@ We will start with Ciphers.
 
 Q1. Find out the 5 most common used Ciphers.
 Q2. What are monoalphabetic substitution Ciphers.
-Q3. Symmetric and
+Q3. Symmetric and Assymetric encryptions.
+Q4. RSA algorithm and Exclusive OR operation.
+
+---
+
+After having answered all these questions, you can solve the challenges of task1.zip
+
+Thank you 😄
 
