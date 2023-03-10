@@ -53,7 +53,7 @@ Q4. RSA algorithm and Exclusive OR operation.
 
 After having answered all these questions, you can solve the challenges of task1.zip
 
-### < TIME ALLOTED - 5 days >
+### < TIME ALLOTED - 3-4 days >
 
 Thank you 😄
 
